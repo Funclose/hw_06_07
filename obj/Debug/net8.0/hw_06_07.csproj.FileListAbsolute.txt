@@ -1,0 +1,14 @@
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.AssemblyInfoInputs.cache
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.AssemblyInfo.cs
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\bin\Debug\net8.0\hw_06_07.exe
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\bin\Debug\net8.0\hw_06_07.deps.json
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\bin\Debug\net8.0\hw_06_07.runtimeconfig.json
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\bin\Debug\net8.0\hw_06_07.dll
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\bin\Debug\net8.0\hw_06_07.pdb
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.dll
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\refint\hw_06_07.dll
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.pdb
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\hw_06_07.genruntimeconfig.cache
+C:\Users\Katerina\source\repos\hw_06_07\hw_06_07\obj\Debug\net8.0\ref\hw_06_07.dll
